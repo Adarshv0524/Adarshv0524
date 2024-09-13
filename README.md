@@ -78,11 +78,12 @@
       <div style="background-color: #333; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
         <img src="https://www.codewars.com/users/Adarshv0524/badges/large" alt="Codewars Badge" style="width: 100%; height: auto; border-radius: 8px;">
       </div>
-  <div style="background-color: #333; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=Adarshv0524.visitor-badge" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Adarshv0524.visitor-badge" alt="Visitor Count" style="width: 100%; height: auto; border-radius: 8px;">
-    </a>
-  </div>
+<div style="background-color: #333; padding: 10px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; max-width: 100%; display: inline-block;">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=Adarshv0524.visitor-badge" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Adarshv0524.visitor-badge" alt="Visitor Count" style="width: 100%; height: auto; border-radius: 8px;">
+  </a>
+</div>
+
 
   </div>
 </div>
