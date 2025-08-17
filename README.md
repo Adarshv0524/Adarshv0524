@@ -39,7 +39,7 @@
 
 ### ✨Lumina RAG
 <samp>
-[cite_start]<b>Lumina RAG</b> is an advanced Retrieval-Augmented Generation system designed to turn static documents (PDFs, PPTX, images) into a fully interactive knowledge base[cite: 3, 6]. [cite_start]Users can engage in natural language conversations to analyze and extract insights with AI-powered, context-aware responses and source citations[cite: 3, 4].
+<b>Lumina RAG</b> is an advanced Retrieval-Augmented Generation system designed to turn static documents (PDFs, PPTX, images) into a fully interactive knowledge base. Users can engage in natural language conversations to analyze and extract insights with AI-powered, context-aware responses and source citations.
 </samp>
 
 <p align="center">
@@ -54,24 +54,24 @@
       <details>
         <summary>🔑 <b>Core Features & Capabilities</b></summary>
         <ul>
-          [cite_start]<li><b>Multi-Format Processing</b>: Natively handles PDF, PPTX, PNG, and JPG files[cite: 9].</li>
-          [cite_start]<li><b>Advanced OCR</b>: Tesseract-based text extraction with sophisticated image preprocessing[cite: 10, 34].</li>
-          [cite_start]<li><b>Hybrid Semantic Search</b>: Combines vector similarity (FAISS) with keyword matching for precision[cite: 11, 35, 68].</li>
-          [cite_start]<li><b>Multi-modal Q&A</b>: Leverages Google Gemini Vision for text and image understanding[cite: 12, 17, 38].</li>
-          [cite_start]<li><b>Complete Data Privacy</b>: Enforces strict user data isolation and automatic file cleanup policies[cite: 15, 100, 105].</li>
-          [cite_start]<li><b>Scalable Architecture</b>: A cloud-native, microservice-pattern design built for high performance[cite: 21, 150].</li>
+          <li><b>Multi-Format Processing</b>: Natively handles PDF, PPTX, PNG, and JPG files.</li>
+           <li><b>Advanced OCR</b>: Tesseract-based text extraction with sophisticated image preprocessing.</li>
+           <li><b>Hybrid Semantic Search</b>: Combines vector similarity (FAISS) with keyword matching for precision.</li>
+           <li><b>Multi-modal Q&A</b>: Leverages Google Gemini Vision for text and image understanding.</li>
+           <li><b>Complete Data Privacy</b>: Enforces strict user data isolation and automatic file cleanup policies.</li>
+           <li><b>Scalable Architecture</b>: A cloud-native, microservice-pattern design built for high performance.</li>
         </ul>
       </details>
     </td>
     <td valign="top" width="50%">
       <details>
         <summary>🛠️ <b>System & Architecture</b></summary>
-        [cite_start]<p>Lumina employs a modern, 4-tier layered architecture for scalability and maintainability[cite: 53]:</p>
+         <p>Lumina employs a modern, 4-tier layered architecture for scalability and maintainability:</p>
         <ol>
-          [cite_start]<li><b>Presentation Layer</b>: Responsive UI with a real-time chat interface[cite: 54, 56, 58].</li>
-          [cite_start]<li><b>API Layer (Flask)</b>: Manages auth, chat, and document processing routes[cite: 59, 60, 61, 62].</li>
-          [cite_start]<li><b>Business Logic Layer</b>: Core Python modules for OCR, embedding, retrieval, and generation[cite: 64, 65, 66, 67, 68, 69].</li>
-          [cite_start]<li><b>Data Access Layer</b>: Manages FAISS vector stores, Firebase, and high-performance caching[cite: 70, 71, 72, 73].</li>
+           <li><b>Presentation Layer</b>: Responsive UI with a real-time chat interface.</li>
+           <li><b>API Layer (Flask)</b>: Manages auth, chat, and document processing routes.</li>
+           <li><b>Business Logic Layer</b>: Core Python modules for OCR, embedding, retrieval, and generation.</li>
+           <li><b>Data Access Layer</b>: Manages FAISS vector stores, Firebase, and high-performance caching.</li>
         </ol>
       </details>
     </td>
