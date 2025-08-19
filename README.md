@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarshv0524/Adarshv0524/main/lumina-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarshv0524/Adarshv0524/main/lumina-banner-light.png">
-  <img alt="Lumina Project Banner" src="https://raw.githubusercontent.com/Adarshv0524/Adarshv0524/main/lumina-banner-dark.png">
-</picture>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=255E63&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Adarsh!;I+build+intelligent+AI+systems;I+turn+data+into+dialogue." alt="Typing SVG" /></a>
 
 </div>
