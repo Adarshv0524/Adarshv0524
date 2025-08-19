@@ -98,7 +98,7 @@
     <td width="33.3%" valign="top">
       <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center">A personal website and portfolio built with HTML, CSS, and JavaScript, featuring a clean design and a Web3forms API integration for seamless contact.</p>
-      <p align="center"><a href="https://github.com/Adarshv0524/Portfolio"><img src="https://img.shields.io/badge/Explore-255E63?style=for-the-badge" alt="Explore Portfolio"></a></p>
+      <p align="center"><a href="adarshv0524.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore-255E63?style=for-the-badge" alt="Explore Portfolio"></a></p>
     </td>
   </tr>
 </table>
